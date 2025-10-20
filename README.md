@@ -12,7 +12,7 @@ Cássio Eid Kobaysahi Yonetsuka / RM99678
 Funcionamento: Utilizamos um banco de dados da oracle, onde foi criada uma tabela Users como tabela principal, para conectar usar as crendenciais para conectividade com o banco de dados e um app como postman/insomnia para realizar as requisições com o banco
 
 
-Projeto CRUD API criando todas as requisições iniciais principalmente registros de login, posteriormente sendo adicionados outros processos que completam a aplicação, trazendo complementos atrelados aos usuários ja existem e tornando uma aplicação completa
+Projeto CRUD API criando todas as requisições iniciais principalmente registros de login, posteriormente sendo adicionados outros processos que completam a aplicação, trazendo complementos atrelados aos usuários ja existem e tornando uma aplicação completa estruturação de segurança integrada protegendo as informações principais da api e garantindo a devida segurança conforme pedido
 
 
 ## Atualizações realizadas sprint 4
